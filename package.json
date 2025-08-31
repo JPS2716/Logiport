@@ -8,7 +8,7 @@
     "url": "^0.11.4"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node index_fixed.js",
     "vercel-build": "echo 'No build step required'"
   }
 
